@@ -20,6 +20,8 @@ For scrapping Twitter, we need to setup a Twitter App. First of all login from y
 
 ## Usage
 Once you have created a Twitter App and installed the dependencies, you are good to go. Following are the details of the variables used to initialize the scrappers.
+
+
 | Variable | Default | Description |
 | ------ | ------ | ------ |
 | tag | Null | The keyword to search |
