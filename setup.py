@@ -8,13 +8,13 @@ with open(path.join(here, 'README.md'), encoding='utf-8') as f:
     long_description = f.read()
 
 setup(
-    name='Twitter Sentiment Analysis',
-    version='1.3.0',
+    name='Social Media Scrapper',
+    version='1.1.0',
 
     description='T',
     long_description = long_description,
 
-    url = 'https://github.com/the-javapocalypse/Twitter-Sentiment-Analysis',
+    url = 'https://github.com/the-javapocalypse/Social-Media-Scrapper',
 
     author = 'Muhammad Ali Zia',
     author_email = 'muhammad.17ali@gmail.com',
@@ -30,10 +30,9 @@ setup(
                        'Programming Language :: Python :: 3.6',
                    ],
 
-     keywords = 'python twitter sentiment-analysis textblob nlp tweepy nltk',
+     keywords = 'python twitter tweepy instagram scrapper crawler hashtags hashtag images image caption',
 
     install_requires = ['tweepy',
-                        'urllib',
                         'openpyxl',
                         'selenium'],
 
