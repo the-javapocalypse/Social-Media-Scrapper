@@ -1,5 +1,5 @@
 # Social Media Scrapper
-A powerfull social media web crawler/web scrapper that dumps images, tweets, captions, external links and hashtags from Instagram and Twitter in an organized form. It also shows the most relevant hastags with thier frequency of occurrence in the posts.
+A powerfull social media web crawler/web scrapper that dumps images, tweets, captions, external links and hashtags from Instagram and Twitter in an organized form. It also shows the most relevant hashtags with their frequency of occurrence in the posts.
 
 
 ## Getting Started
