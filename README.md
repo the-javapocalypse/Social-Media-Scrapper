@@ -1,8 +1,13 @@
 # Social Media Scrapper
 A powerfull social media web crawler/web scrapper that dumps images, tweets, captions, external links and hashtags from Instagram and Twitter in an organized form. It also shows the most relevant hashtags with their frequency of occurrence in the posts.
 
+![alt text](https://github.com/the-javapocalypse/Social-Media-Scrapper/blob/master/SocialMediaScrapper.png)
+
 
 ## Getting Started
+
+#### Video Based Tutorial
+[Watch Tutorial](https://www.youtube.com/watch?v=flQ_jxgHou8)
 
 ##### 1. Dependencies
 Download or Clone the repo, Navigate to the directory containing the files and run the following command in cmd.
